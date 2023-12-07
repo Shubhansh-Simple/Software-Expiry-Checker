@@ -1,6 +1,6 @@
 # Software Expiry Checker
 
-<b>.) Built-in REST API endpoint that thresholds a user after using any software a certain number of times</b><br>
+<b>.) Built REST API endpoint that thresholds a user after using any software a certain number of times</b><br>
 <b>.) This API endpoint can be implemented in any software that wants to stop its users after crossing a threshold limit</b><br>
 
 ### This Application have two api endpoints 
