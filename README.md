@@ -8,7 +8,7 @@
   <b>2.) set/1</b>
 
 ### What it does
-<b>What get/ request does</b> - Returns how many times users use the software
+<b>What get/ request does</b> - Returns how many times users use the software<br>
 <b>What set/ request does</b> - It's increment the counting of how many times user uses the software
 
 ### What happen after crossing the threshold limits
